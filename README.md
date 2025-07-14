@@ -34,8 +34,7 @@
   Revert a commit to undo its changes.
 
     Commands Used:
-
-    git commit -m "Some changes"
+    git commit -m "changes"
     git revert <commit-hash>
 
 5. Git Reset
