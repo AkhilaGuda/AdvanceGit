@@ -1,2 +1,2 @@
-initial commit from master
+cleaning example file : initial commit from master
 second commit 
