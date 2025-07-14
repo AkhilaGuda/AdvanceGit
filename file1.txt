@@ -1,2 +1,2 @@
 cleaning example file : initial commit from master
-second commit.temp commit 
+second commit. 
